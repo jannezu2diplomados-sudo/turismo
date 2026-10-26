@@ -1,0 +1,9 @@
+venv/
+.venv/
+.flet/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.vscode/
